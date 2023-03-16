@@ -1,15 +1,8 @@
 { 
-
-"facebookAds": [
-
-{
-"banner":"538737418104708_538737641438019",
-"inter":"538737418104708_541034884541628",
-"native":"538737418104708_541139001197883",
-"weblink":"https://play295.atmegame.com/start",
-
-
-}]
- 
-  
+[
+"FB_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"FB_inter1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"FB_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"FB_nativebanner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+  ]
 }
